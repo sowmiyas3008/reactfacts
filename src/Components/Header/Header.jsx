@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.css";
-import logo from "C:\\Users\\balas\\Documents\\scrimba_react\\reactfacts\\src\\assets\\logo.png"; // Adjust the path if needed
+import logo from "../../assets/logo.png";  // If your file is in /src/assets/
 
 function Header() {
   return (
